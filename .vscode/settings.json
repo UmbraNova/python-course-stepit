@@ -1,0 +1,11 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./tema-3",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}
